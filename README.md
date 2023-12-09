@@ -23,28 +23,19 @@ The main goal of this project is to predict sales based on advertising data. The
 To replicate or further explore the analysis, follow these steps:
 
 
-# 1. Clone the repository:
+### 1. Clone the repository:
 ```bash
 git clone https://github.com/pelinozden/Sales_Prediction_Linear_Regression_Random_Forest_Regression.git
-
-# 2. Navigate to the project directory:
+```
+### 2. Navigate to the project directory:
 ```bash
 cd Sales_Prediction_Linear_Regression_Random_Forest_Regression
-
-# 3. Activate your Anaconda environment (if using one):
+```
+### 3. Activate your Anaconda environment (if using one):
+```bash
 conda activate your_environment_name
-# Replace "your_environment_name" with your actual environment name.
-
-# 4. List the required libraries and versions:
-conda list --export > requirements.txt
-
-# 5. Check the created requirements.txt file:
-# You can use any text editor or the cat command on Linux/Mac.
-# For example:
-cat requirements.txt   # or open requirements.txt (on Windows)
-
-# 6. Install the dependencies from requirements.txt:
-conda install --file requirements.txt
+```
+### Replace "your_environment_name" with your actual environment name.
 
 ## Dataset Information
 
